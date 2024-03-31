@@ -1,0 +1,33 @@
+.odd {
+    background-color: #f17588f5;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif', serif;
+    transition: transform 0.1s ease;
+}
+
+.odd:hover {
+    color: red;
+    transform: scale(1.2) translateX(10%);
+}
+
+.size {
+    font-size: 24px;
+}
+
+
+div {
+    background-color: rgb(203, 236, 203);
+    font-weight: 500;
+    font: 'Times New Roman', serif;
+
+}
+
+.test {
+    background-color: white;
+    color: rgb(0, 0, 240); 
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.bold {
+    font-weight: bold;
+}
